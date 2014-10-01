@@ -1,0 +1,33 @@
+{
+  "name": "resvelope",
+  "version": "1.0.0",
+  "description": "(Res)ponse En(velope)",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NoumanSaleem/resvelope.git"
+  },
+  "keywords": [
+    "envelope",
+    "REST"
+  ],
+  "author": "Nouman Saleem",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NoumanSaleem/resvelope/issues"
+  },
+  "homepage": "https://github.com/NoumanSaleem/resvelope",
+  "dependencies": {
+    "lodash": "^2.4.1",
+    "statuses": "^1.2.0"
+  },
+  "devDependencies": {
+    "express": "^4.9.5",
+    "mocha": "^1.21.4",
+    "should": "^4.0.4",
+    "supertest": "^0.14.0"
+  }
+}
