@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/NoumanSaleem/resvelope",
   "dependencies": {
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.20",
     "statuses": "^1.2.0"
   },
   "devDependencies": {
